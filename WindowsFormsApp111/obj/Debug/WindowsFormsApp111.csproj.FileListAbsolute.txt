@@ -1,0 +1,11 @@
+D:\New folder (2)\WindowsFormsApp111\WindowsFormsApp111\bin\Debug\WindowsFormsApp111.exe.config
+D:\New folder (2)\WindowsFormsApp111\WindowsFormsApp111\bin\Debug\WindowsFormsApp111.exe
+D:\New folder (2)\WindowsFormsApp111\WindowsFormsApp111\bin\Debug\WindowsFormsApp111.pdb
+D:\New folder (2)\WindowsFormsApp111\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.csproj.AssemblyReference.cache
+D:\New folder (2)\WindowsFormsApp111\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.csproj.SuggestedBindingRedirects.cache
+D:\New folder (2)\WindowsFormsApp111\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.Form1.resources
+D:\New folder (2)\WindowsFormsApp111\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.Properties.Resources.resources
+D:\New folder (2)\WindowsFormsApp111\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.csproj.GenerateResource.cache
+D:\New folder (2)\WindowsFormsApp111\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.csproj.CoreCompileInputs.cache
+D:\New folder (2)\WindowsFormsApp111\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.exe
+D:\New folder (2)\WindowsFormsApp111\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.pdb
